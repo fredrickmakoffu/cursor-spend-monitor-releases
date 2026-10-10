@@ -1,0 +1,22 @@
+{
+  "version": "0.7.0",
+  "released": "2026-10-10",
+  "artifacts": [
+    {
+      "platform": "fedora",
+      "os": "linux",
+      "label": "Fedora / RHEL",
+      "file": "cursor-spend-monitor-0.7.0-1.fc44.noarch.rpm",
+      "size": 535088,
+      "sha256": "4410dc7618a9588d0dfe1bc85c336909db1bbd9fb29aec0c273763e2cc4d381e"
+    },
+    {
+      "platform": "debian",
+      "os": "linux",
+      "label": "Debian / Ubuntu",
+      "file": "cursor-spend-monitor_0.7.0_all.deb",
+      "size": 328544,
+      "sha256": "ccd84bdbeaf7192671d7c734a09dba77a1de0c07a804a512fea9b36021e8d418"
+    }
+  ]
+}
